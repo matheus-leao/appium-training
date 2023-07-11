@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "appium": "^1.22.3"
+    "appium": "^2.0.0"
   }
 }
